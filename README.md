@@ -12,7 +12,7 @@
 
 更具体内容可查看复现教程.ipynb。
 
-训练完的LORA模型下载地址[百度网盘](https://pan.baidu.com/s/10RXhi08a45F34TALzJ2rpw )，提取码：en0p。
+训练完的LORA模型下载地址[百度网盘](https://pan.baidu.com/s/1Y4xCbVls0ZC_J9qTHw6fUg)，提取码：fsiy。
 
 这个项目是西北工业大学计算机学院《自然语言处理》课程大作业，作者已用该作业取得该课程满绩，现分享给大家参考，希望能帮助更多人学习，如果对你产生了启发希望能给个小星星，感谢~
 
