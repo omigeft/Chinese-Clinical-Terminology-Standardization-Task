@@ -10,7 +10,7 @@
 
 本作业参考代码仓库[shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT/tree/main)。
 
-更具体内容可查看复现教程.ipynb。
+更具体内容可查看[复现教程.ipynb](复现教程.ipynb)。
 
 训练完的LORA模型下载地址[百度网盘](https://pan.baidu.com/s/1Y4xCbVls0ZC_J9qTHw6fUg)，提取码：fsiy。
 
