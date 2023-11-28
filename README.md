@@ -1,6 +1,6 @@
 # Chinese-Clinical-Terminology-Standardization-Task
 
-基于LLM实现CHIP2021-Task3中文临床术语标准化任务，准确率约70%（10个EPOCH）。
+基于LLM实现CHIP2021-Task3中文临床术语标准化任务，准确率约70%。
 
 原题：[http://cips-chip.org.cn/2021/eval3](http://cips-chip.org.cn/2021/eval3).
 
