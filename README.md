@@ -6,7 +6,7 @@
 
 中文医疗信息处理数据集CBLUE：[https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414](https://tianchi.aliyun.com/dataset/dataDetail?dataId=95414).
 
-底座生成模型使用的是类型为llama的[shibing624/ziya-llama-13b-medical-merged](https://huggingface.co/shibing624/ziya-llama-13b-medical-merged)模型。
+底座生成模型使用的是[shibing624/ziya-llama-13b-medical-merged](https://huggingface.co/shibing624/ziya-llama-13b-medical-merged)。
 
 本作业参考代码仓库[shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT/tree/main)，感谢该项目作者:rose:。
 
