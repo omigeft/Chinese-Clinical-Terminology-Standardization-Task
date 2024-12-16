@@ -8,7 +8,7 @@
 
 底座生成模型使用的是[shibing624/ziya-llama-13b-medical-merged](https://huggingface.co/shibing624/ziya-llama-13b-medical-merged)。
 
-本作业参考代码仓库[shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT/tree/main)，感谢该项目作者:rose:。
+本作业参考代码仓库[shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT/tree/main)，感谢该项目作者🌹。
 
 **更具体内容可查看[复现教程.ipynb](复现教程.ipynb)。**
 
@@ -18,7 +18,7 @@
 
 该仓库也附上了作业报告与课程演讲PPT，这两个做得不严谨，看看就好不用当真。
 
-如果对你产生了启发希望能给个小星星 :star2: ，感谢~
+如果对你产生了启发希望能给个小星星⭐ ，感谢~
 
 本项目不作盈利目的，仅供学习交流用。如果本项目侵犯了您的合法权益请及时联系我，我会及时删除相关侵权内容。
 
